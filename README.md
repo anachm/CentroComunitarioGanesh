@@ -1,2 +1,2 @@
 # CentroComunitarioGanesh
-Primer proyecto en este camino de la tecnología
+Primer proyecto en el camino de la tecnología
